@@ -2,7 +2,7 @@
   <div
     class="flex h-screen w-full items-center justify-center bg-gray-900 bg-cover bg-no-repeat"
     style="
-      background-image: url('https://th.bing.com/th/id/R.6105538b97769e02e62a4778c3667e3b?rik=RO2VXO3t9Uftlg&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f06%2fBlack-And-Red-Background-HD.jpg&ehk=j8v12wZpNSjYUZTr9bvVfCklPe8wORbYVfepbovTKfk%3d&risl=&pid=ImgRaw&r=0');
+      background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/a73c4363-1dcd-4719-b3b1-3725418fd91d/1a5c57fd-7621-42e4-8488-e5ae84fe9ae5/VN-vi-20231016-popsignuptwoweeks-perspective_alpha_website_large.jpg');
     "
   >
     <div
